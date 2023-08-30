@@ -77,6 +77,11 @@ body, p {
 .indent {
 	padding-left: 1.25rem;
 }
+.paises{
+	color: #ff0000;
+	font: 700 4rem "Montserrat", sans-serif;
+	
+}
 
 h1 {
 	color: #484a46;
@@ -140,7 +145,7 @@ strong {
 }
 
 .section-title {
-	color: #f70505;
+	color: #c70303;
 	font: 500 0.8125rem/1.125rem "Montserrat", sans-serif;
 }
 
@@ -149,7 +154,7 @@ strong {
 	padding: 1.1875rem 1.875rem 1.1875rem 1.875rem;
 	border: 0.125rem solid #000000;
 	border-radius: 0.25rem;
-	background-color: #c70303;
+	background-color: #ff0000;
 	color: #ffffff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -160,7 +165,7 @@ strong {
 	background-color: transparent;
 	color: #ffffff;
 	text-decoration: none;
-	border: 0.125rem solid #c70303;
+	border: 0.125rem solid #ff0000;
 	background-color: #c7030375;
 }
 
@@ -178,7 +183,7 @@ strong {
 
 .btn-solid-lg:hover {
 	background-color: transparent;
-	color: #ffffff;
+	color: #070000;
 	text-decoration: none;
 	border: 0.125rem solid #c70303;
 	background-color: #c7030375;
