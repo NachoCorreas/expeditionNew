@@ -78,7 +78,7 @@ body, p {
 	padding-left: 1.25rem;
 }
 .paises{
-	color: #ff0000;
+	color: #7D110E;
 	font: 700 3.5rem "Montserrat", sans-serif;
 	
 }
@@ -124,7 +124,7 @@ a:hover {
 }
 
 a.green {
-	color: #ff0505;
+	color: #7D110E;
 }
 
 a.white,
@@ -145,7 +145,7 @@ strong {
 }
 
 .section-title {
-	color: #c70303;
+	color: #7D110E;
 	font: 500 0.8125rem/1.125rem "Montserrat", sans-serif;
 }
 
@@ -154,7 +154,7 @@ strong {
 	padding: 1.1875rem 1.875rem 1.1875rem 1.875rem;
 	border: 0.125rem solid #000000;
 	border-radius: 0.25rem;
-	background-color: #ff0000;
+	background-color: #7D110E;
 	color: #ffffff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -166,7 +166,7 @@ strong {
 	color: #ffffff;
 	text-decoration: none;
 	border: 0.125rem solid #ff0000;
-	background-color: #c7030375;
+	background-color: #7D110E;
 }
 
 .btn-solid-lg {
@@ -174,7 +174,7 @@ strong {
 	padding: 1.375rem 2.125rem 1.375rem 2.125rem;
 	border: 0.125rem solid #000000;
 	border-radius: 0.25rem;
-	background-color: #c70303;
+	background-color: #7D110E;
 	color: #fff;
 	font: 700 0.75rem/0 "Montserrat", sans-serif;
 	text-decoration: none;
@@ -186,7 +186,7 @@ strong {
 	color: #070000;
 	text-decoration: none;
 	border: 0.125rem solid #c70303;
-	background-color: #c7030375;
+	background-color: #7D110E;
 }
 
 .btn-outline-reg {
@@ -388,7 +388,7 @@ input[type='checkbox'] {
 	height: 3.125rem;
 	border: 0.125rem solid #000000;
 	border-radius: 0.25rem;
-	background-color: #ff0000;
+	background-color: #7D110E;
 	color: #fff;
 	font: 700 0.75rem/1.75rem "Montserrat", sans-serif;
 	cursor: pointer;
@@ -409,7 +409,7 @@ input[type='checkbox'] {
 #pmsgSubmit.h3.text-center {
 	display: block;
 	margin-bottom: 0;
-	color: #b93636;
+	color: #7D110E;
 	font: 400 1.125rem/1rem "Open Sans", sans-serif;
 }
 
@@ -729,7 +729,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item:hover {
-	background-color: #fd0101da;
+	background-color: #7D110E;
 }
 
 .navbar-custom .dropdown-item .item-text {
@@ -737,7 +737,7 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .dropdown-item:hover .item-text {
-	color: #fa0202da;
+	color: #7D110E;
 }
 
 .navbar-custom .dropdown-items-divide-hr {
@@ -967,7 +967,7 @@ input[type='checkbox'] {
 }
 
 .cards-2 .price span {
-	color: #c70303;
+	color: #7D110E;
 }
 
 .cards-2 .button-container {
@@ -1017,7 +1017,7 @@ input[type='checkbox'] {
 	margin-right: 0.875rem;
 	border: 0.125rem solid #000000;
 	border-radius: 50%;
-	background-color: #c70303;
+	background-color: #7D110E;
 	color: #fff;
 	font: 700 1rem/2.125rem "Montserrat", sans-serif;
 	text-align: center;
@@ -1034,7 +1034,7 @@ input[type='checkbox'] {
 
 .accordion .item:hover span[aria-expanded="false"] .circle-numbering {
 	border: 0.125rem solid #000000;
-	color: #c70303;
+	color: #7D110E;
 }
 
 .accordion .accordion-title {
@@ -1050,11 +1050,11 @@ input[type='checkbox'] {
 }
 
 .accordion .item:hover .accordion-title {
-	color: #c70303;
+	color: #7D110E;
 }
 
 .accordion span[aria-expanded="true"] .accordion-title {
-	color: #c70303;
+	color: #7D110E;
 }
 
 .accordion .accordion-body {
@@ -1093,7 +1093,7 @@ input[type='checkbox'] {
 
 .tabs .nav-link:hover,
 .tabs .nav-link.active {
-	color: #c70303;
+	color: #7D110E;
 }
 
 .tabs .nav-link .fas {
@@ -1149,7 +1149,7 @@ input[type='checkbox'] {
 }
 
 .tabs #tab-2 .list-unstyled .media-bullet {
-	color: #c70303;
+	color: #7D110E;
 	font-weight: 600;
 	font-size: 2rem;
 	line-height: 2rem;
@@ -1160,7 +1160,7 @@ input[type='checkbox'] {
 }
 
 .tabs #tab-3 .list-unstyled .fas {
-	color: #c70303;
+	color: #7D110E;
 	font-size: 0.5rem;
 	line-height: 1.375rem;
 }
@@ -1273,7 +1273,7 @@ input[type='checkbox'] {
 }
 
 .form-1 .list-unstyled .fas {
-	color: #ff0404;
+	color: #7D110E;
 	font-size: 0.5rem;
 	line-height: 1.375rem;
 }
@@ -1445,7 +1445,7 @@ input[type='checkbox'] {
 	margin-bottom: 0.625rem;
 	margin-left: 0;
 	border: none;
-	background-color: #c70303;
+	background-color: #7D110E;
 }
 
 .lightbox-basic h6 {
@@ -1576,7 +1576,7 @@ input[type='checkbox'] {
 }
 
 .basic-2 .fa-stack:hover .fa-stack-1x {
-	color: #c70303;
+	color: #7D110E;
 }
 
 
@@ -1609,7 +1609,7 @@ input[type='checkbox'] {
 }
 
 .counter .list-unstyled .fas {
-	color: #c70303;
+	color: #7D110E;
 	font-size: 0.5rem;
 	line-height: 1.375rem;
 }
@@ -1631,7 +1631,7 @@ input[type='checkbox'] {
 .counter #counter .counter-value {
 	display: inline-block;
 	margin-bottom: 0.125rem;
-	color: #c70303;
+	color: #7D110E;
 	font: 700 2.875rem/3.25rem "Montserrat", sans-serif;
 	vertical-align: middle;
 }
@@ -1676,7 +1676,7 @@ input[type='checkbox'] {
 .form-2 .list-unstyled .fab {
 	margin-right: 0.5rem;
 	font-size: 0.875rem;
-	color: #c70303;
+	color: #7D110E;
 }
 
 .form-2 .list-unstyled .fa-phone {
@@ -1717,7 +1717,7 @@ input[type='checkbox'] {
 }
 
 .form-2 .fa-stack:hover .fa-stack-1x {
-	color: #c70303;
+	color: #7D110E;
 }
 
 
@@ -1751,7 +1751,7 @@ input[type='checkbox'] {
 .copyright {
 	padding-top: 1rem;
 	padding-bottom: 0.5rem;
-	background-color: #c70303;
+	background-color: #7D110E;
 	text-align: center;
 }
 
@@ -1774,7 +1774,7 @@ a.back-to-top {
 	width: 2.625rem;
 	height: 2.625rem;
 	border-radius: 1.875rem;
-	background: #c70303 url("../images/up-arrow.png") no-repeat center 47%;
+	background: #7D110E url("../images/up-arrow.png") no-repeat center 47%;
 	background-size: 1.125rem 1.125rem;
 	text-indent: -9999px;
 }
@@ -1831,7 +1831,7 @@ a:hover.back-to-top {
 }
 
 .ex-basic-2 .list-unstyled .fas {
-	color: #c70303;
+	color: #7D110E;
 	font-size: 0.5rem;
 	line-height: 1.375rem;
 }
@@ -1886,7 +1886,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom .nav-item .nav-link:hover,
 	.navbar-custom .nav-item .nav-link.active {
-		color: #c70303;
+		color: #7D110E;
 	}
 
 	.navbar-custom.top-nav-collapse {
@@ -1905,7 +1905,7 @@ a:hover.back-to-top {
 	
 	.navbar-custom.top-nav-collapse .nav-item .nav-link:hover,
 	.navbar-custom.top-nav-collapse .nav-item .nav-link.active {
-		color: #ff0000;
+		color: #7D110E;
 	}
 
 	.navbar-custom .dropdown-menu {
@@ -2077,7 +2077,7 @@ a:hover.back-to-top {
 	}
 
 	.navbar-custom .fa-stack:hover .fa-stack-1x {
-		color: #fc0303;
+		color: #7D110E;
 	}
 	/* end of navigation */
 
