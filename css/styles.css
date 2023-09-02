@@ -162,11 +162,9 @@ strong {
 }
 
 .btn-solid-reg:hover {
-	background-color: transparent;
-	color: #ffffff;
+	color: #0e0000;
 	text-decoration: none;
-	border: 0.125rem solid #ff0000;
-	background-color: #7D110E;
+	border: 0.125rem solid #7D110E;
 }
 
 .btn-solid-lg {
