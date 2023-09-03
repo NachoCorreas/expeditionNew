@@ -1,34 +1,34 @@
 <?php
 $errorMSG = "";
 
-if (empty($_POST["name"])) {
+if (empty($_POST["lname"])) {
     $errorMSG = "Name is required ";
 } else {
-    $name = $_POST["name"];
+    $name = $_POST["lname"];
 }
 
-if (empty($_POST["phone"])) {
+if (empty($_POST["lphone"])) {
     $errorMSG = "Phone is required ";
 } else {
-    $phone = $_POST["phone"];
+    $phone = $_POST["lphone"];
 }
 
-if (empty($_POST["email"])) {
+if (empty($_POST["lemail"])) {
     $errorMSG = "Email is required ";
 } else {
-    $email = $_POST["email"];
+    $email = $_POST["lemail"];
 }
 
-if (empty($_POST["select"])) {
-    $errorMSG = "Select is required ";
+if (empty($_POST["lmessage"])) {
+    $errorMSG = "Message is required ";
 } else {
-    $select = $_POST["select"];
+    $select = $_POST["lmessage"];
 }
 
-if (empty($_POST["terms"])) {
+if (empty($_POST["lterms"])) {
     $errorMSG = "Terms is required ";
 } else {
-    $terms = $_POST["terms"];
+    $terms = $_POST["lterms"];
 }
 
 $EmailTo = "icorreas.ig@gmail.com";
@@ -45,7 +45,7 @@ $Body .= "\n";
 $Body .= "Email: ";
 $Body .= $email;
 $Body .= "\n";
-$Body .= "Package: ";
+$Body .= "Message: ";
 $Body .= $select;
 $Body .= "\n";
 $Body .= "Terms: ";
