@@ -1,38 +1,38 @@
 <?php
 $errorMSG = "";
 
-if (empty($_POST["lname"])) {
+if (empty($_POST["name"])) {
     $errorMSG = "Name is required ";
 } else {
-    $name = $_POST["lname"];
+    $name = $_POST["name"];
 }
 
-if (empty($_POST["lphone"])) {
+if (empty($_POST["phone"])) {
     $errorMSG = "Phone is required ";
 } else {
-    $phone = $_POST["lphone"];
+    $phone = $_POST["phone"];
 }
 
-if (empty($_POST["lemail"])) {
+if (empty($_POST["email"])) {
     $errorMSG = "Email is required ";
 } else {
-    $email = $_POST["lemail"];
+    $email = $_POST["email"];
 }
 
-if (empty($_POST["lmessage"])) {
-    $errorMSG = "Message is required ";
+if (empty($_POST["message"])) {
+    $errorMSG = "mensaje es requerido ";
 } else {
-    $select = $_POST["lmessage"];
+    $select = $_POST["message"];
 }
 
-if (empty($_POST["lterms"])) {
+if (empty($_POST["terms"])) {
     $errorMSG = "Terms is required ";
 } else {
     $terms = $_POST["lterms"];
 }
 
 $EmailTo = "icorreas.ig@gmail.com";
-$Subject = "New quote request from Aria landing page";
+$Subject = "mensaje enviado desde sitio Expedition";
 
 // prepare email body text
 $Body = "";

@@ -78,7 +78,7 @@ body, p {
 	padding-left: 1.25rem;
 }
 .paises{
-	color: #7D110E;
+	color: #fdfdfd;
 	font: 700 3.5rem "Montserrat", sans-serif;
 	
 }
@@ -796,7 +796,7 @@ input[type='checkbox'] {
 
 .header h1 {
 	margin-bottom: 0.5rem;
-	color: #fff;
+	color: #030000;
 }
 
 .header .p-large {

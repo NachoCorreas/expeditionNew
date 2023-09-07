@@ -13,6 +13,12 @@ if (empty($_POST["email"])) {
     $email = $_POST["email"];
 }
 
+if (empty($_POST["message"])) {
+    $errorMSG = "Mensaje es requerido ";
+} else {
+    $message = $_POST["message"];
+}
+
 if (empty($_POST["select"])) {
     $errorMSG = "Select is required ";
 } else {
@@ -25,7 +31,7 @@ if (empty($_POST["terms"])) {
     $terms = $_POST["terms"];
 }
 
-$EmailTo = "yourname@domain.com";
+$EmailTo = "icorreas.ig@gmail.com";
 $Subject = "New privacy request from Aria landing page";
 
 // prepare email body text
@@ -35,6 +41,8 @@ $Body .= $name;
 $Body .= "\n";
 $Body .= "Email: ";
 $Body .= $email;
+$Body .= "\n";
+$Body .= $message;
 $Body .= "\n";
 $Body .= "Request: ";
 $Body .= $select;
